@@ -1,24 +1,44 @@
-h1{
+body {
+    background-color:rgb(243, 236, 236);
+font-family: 'Arial', sans-serif;
+line-height: 1.6;
+margin: 0;
+padding: 0;
+}
+ 
+ 
+ h1{
      text-align: center;
+     color:blue
 }
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 20%;
-}
+}  
 h2{
     text-align: center;
+    background-color: black;
+    color:red
 }
 section{
     text-align: center;
+    color:green
 }
 li{
     text-align: center;
+    list-style: none;
+    border-bottom: red 1px solid;
 }
 h4{
     text-align: center;
+    background-color: black;
+    color:orangered
 }
 footer{
     text-align: center;
+    color:blue;
+    padding: 10px
 }
+
